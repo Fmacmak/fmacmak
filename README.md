@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Fmac, a full-stack developer specializing in React, React Native, Node.js, and TypeScript. I focus on building reliable, impactful solutions, applying SOLID principles in my work.
+
+📫 How to reach me: dev@fmac.ng 
 <!--
 **Fmacmak/fmacmak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
