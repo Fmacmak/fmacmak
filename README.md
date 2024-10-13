@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋🏾
 
 I'm Fmac, a full-stack developer specializing in React, React Native, Node.js, and TypeScript. I focus on building reliable, impactful solutions, applying SOLID principles in my work.
 
